@@ -1,5 +1,9 @@
 # Machine Failure Analysis Dashboard
 
+[
+![Final_gif](https://github.com/user-attachments/assets/aba2735c-af1d-42ed-9d23-7035e8af2bc5)
+](url)
+
 ## Overview
 
 This Streamlit app provides an interactive **Machine Failure Analysis Dashboard**. The app helps analyze machine failure rates based on various parameters such as product quality, air temperature, process temperature, rotational speed, torque, and tool wear. Using a pre-trained Random Forest model, it predicts the likelihood of machine failure and allows users to simulate different failure scenarios based on the input variables.
