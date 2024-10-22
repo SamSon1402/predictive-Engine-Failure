@@ -28,10 +28,14 @@ To install and run the app locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/machine-failure-analysis-dashboard.git
 
-   ```bash
-   cd machine-failure-analysis-dashboard
+```bash
+cd machine-failure-analysis-dashboard
 
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+
+```bash
+streamlit run app.py
+
 
    
