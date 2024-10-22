@@ -1,6 +1,6 @@
 # Machine Failure Analysis Dashboard
 
-[
+## [
 ![Final_gif](https://github.com/user-attachments/assets/aba2735c-af1d-42ed-9d23-7035e8af2bc5)
 ](url)
 
