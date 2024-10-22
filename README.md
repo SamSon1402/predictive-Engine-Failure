@@ -17,8 +17,12 @@ This Streamlit app provides a Machine Failure Analysis Dashboard that helps anal
    ```bash
    git clone https://github.com/yourusername/machine-failure-analysis-dashboard.git
 
+bash
+
 cd machine-failure-analysis-dashboard
+
+bash
 
 pip install -r requirements.txt
 
-streamlit run app.py
+
