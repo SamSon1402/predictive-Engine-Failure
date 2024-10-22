@@ -180,10 +180,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Developer**: [Your Name]
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Developer**: [sam]
+- **Email**: maxpayne14659@gmail.com
+- **GitHub**: [[Your GitHub Profile](https://github.com/SamSon1402)]
+- **LinkedIn**: [https://www.linkedin.com/in/sameer-m-b73376167/]
 
 ---
 
